@@ -1,4 +1,6 @@
-### Ola me chamo Fabio Barbosa, estudante e entusiasta de tecnologia! 👋
+Ola me chamo Fabio Barbosa, estudante e entusiasta de tecnologia! 👋
+
+##
 
 <div align="center">
   <a href="https://github.com/fabiobtf">
