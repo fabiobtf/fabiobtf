@@ -1,13 +1,10 @@
 ## 👋 Ola! Me chamo Fabio Barbosa, estudante e entusiasta de tecnologia!! <br>💻 Utilizo este GitHub para salvar meus projetos de faculdade, pessoais e como portfólio, espero que aprecie.
 
 <div align="center">
-
   <a href="https://github.com/fabiobtf">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiobtf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobtf&layout=compact&langs_count=7&theme=dracula"/>
-  
+</div>
 </div>
 
 <br>
