@@ -1,6 +1,6 @@
  ## 👋 Hi, I'm Fabio!!
 
-💻 Utilizo este GitHub para salvar meus projetos de faculdade, pessoais e como portfólio, espero que aprecie.
+<h4>💻 Utilizo este GitHub para salvar meus projetos de faculdade, pessoais e como portfólio, espero que aprecie.</h4>
 
 <div align="center">
   <a href="https://github.com/fabiobtf">
